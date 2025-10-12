@@ -1,0 +1,13 @@
+################ German language ##################
+[de]
+languageName = "DE"
+languageCode = "de-de"
+contentDir = "content/de"
+weight = 1
+
+################ English language ##################
+# [en]
+# languageName = "EN"
+# languageCode = "en-us"
+# contentDir = "content/en"
+# weight = 2

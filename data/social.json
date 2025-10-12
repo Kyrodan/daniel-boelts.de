@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "mstodon",
+      "icon": "fab fa-mastodon",
+      "link": "https://mastodon.social/@Kyrodan"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/Kyrodan/"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/daniel-bölts"
+    }
+  ]
+}
