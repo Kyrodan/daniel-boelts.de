@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Berufliches"
     image: "/images/service-1.png"
-    content: "Ich bin Software-Architekt und entwickele hauptsächlich Webanwendungen mit SAP Fiori. Meine Kernfähigkeiten sind:"
+    content: "Ich bin Software-Architekt und entwickle hauptsächlich Webanwendungen mit SAP Fiori. Meine Kernfähigkeiten sind:"
     bulletpoints:
       - "Node.js, JavaScript, TypeScript"
       - "SAP Fiori, SAP UI5, SAP Restful ABAP Programming Model (RAP)"
@@ -28,7 +28,7 @@ features:
     image: "/images/service-2.png"
     content: "In meiner Freizeit unterstütze ich die Entwicklung von Open Source Software. Meine eigenen Projekte sind:"
     bulletpoints:
-      - "KeeAynwhere: ein Plugin für KeePass, um Passwortdatenbanken komfortabel in Cloud-Diensten zu speichern."
+      - "KeeAnywhere: ein Plugin für KeePass, um Passwortdatenbanken komfortabel in Cloud-Diensten zu speichern."
       - "HiDrive .Net SDK: Ein SDK, um mit .Net-Anwendungen auf HiDrive-Speicher zugreifen zu können."
     button:
       enable: true
@@ -38,7 +38,7 @@ features:
 
   - title: "Digitale Souveränität"
     image: "/images/service-3.png"
-    content: "Als Privatperson versuche ich digital unabhängig von den großen (amerikanischen) Konzernen zu sein. Dies versuche ich durft folgende Strategien umzusetzen:"
+    content: "Als Privatperson versuche ich digital unabhängig von den großen (amerikanischen) Konzernen zu sein. Dies versuche ich durch folgende Strategien umzusetzen:"
     bulletpoints:
       - "Self-Hosting: ich installiere und nutze bevorzugt Webanwendungen auf der von mir kontrollierten Infrastruktur (z. B. meinem Homeserver oder NAS zu Hause)"
       - "Software (Programme und Apps): Ich nutze dort, wo es möglich ist, Open Source Software."
