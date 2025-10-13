@@ -42,7 +42,7 @@ features:
     bulletpoints:
       - "Self-Hosting: ich installiere und nutze bevorzugt Webanwendungen auf der von mir kontrollierten Infrastruktur (z. B. meinem Homeserver oder NAS zu Hause)"
       - "Software (Programme und Apps): Ich nutze dort, wo es möglich ist, Open Source Software."
-      - "Cloud-Dienste: Ich bevorzuge europäische Alternativen zu den großen amerikanischen Diensten. Sollte noch keine europäische Alternative existieren, so greife ich möglichst auf Dienste zurück, die durch gemeinnützige Stiftungen oder ähnliches finanziert ist."
+      - "Cloud-Dienste: Ich bevorzuge europäische Alternativen zu den großen amerikanischen Diensten. Sollte noch keine europäische Alternative existieren, so greife ich möglichst auf Dienste zurück, die durch gemeinnützige Stiftungen oder ähnliches finanziert werden."
     button:
       enable: true
       label: "Meine Vorstellung von digitaler Souveränität"
