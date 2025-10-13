@@ -5,9 +5,9 @@ banner:
   content: "Ich bin ein im Raum Mayen-Koblenz (Deutschland) ansässiger Software Engineer (Programmierer), der hier seine Gedanken teilt."
   image: "/images/banner.png"
   button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    enable: true
+    label: "Wie alles begann"
+    link: "/blog/2025-10-12-hello/"
 
 # Features
 features:
