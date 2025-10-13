@@ -12,6 +12,11 @@ url = "/about"
 weight = 2
 
 [[main]]
+name = "Digitale Souveränität"
+url = "/digital-sovereignty"
+weight = 3
+
+[[main]]
 name = "Blog"
 url = "/blog"
 weight = 4

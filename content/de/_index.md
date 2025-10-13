@@ -44,8 +44,8 @@ features:
       - "Software (Programme und Apps): Ich nutze dort, wo es möglich ist, Open Source Software."
       - "Cloud-Dienste: Ich bevorzuge europäische Alternativen zu den großen amerikanischen Diensten. Sollte noch keine europäische Alternative existieren, so greife ich möglichst auf Dienste zurück, die durch gemeinnützige Stiftungen oder ähnliches finanziert ist."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Meine Vorstellung von digitaler Souveränität"
+      link: "/digital-sovereignty"
       target: ""
 ---
