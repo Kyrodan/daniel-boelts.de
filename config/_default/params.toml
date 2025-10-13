@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "© Daniel Bölts"
+copyright = "© Daniel Bölts - Inhalte dieser Site werden mit Hilfe von künstlicher Intelligenz erstellt."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -46,7 +46,8 @@ link = "contact"
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["blog"]
+include_sections = ["blog", "about"]
+#include_all_sections = true
 show_image = true
 show_description = true
 show_tags = true
@@ -62,11 +63,11 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
-image = "images/og-image.png"
+keywords = ["Personal Blog", "Blog"]
+description = "Persönliche Homepage von Daniel Bölts"
+author = "Daniel Bölts"
+#twitter = ""
+#image = "images/og-image.png"
 
 
 # site verifications
