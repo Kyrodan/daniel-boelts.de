@@ -9,7 +9,7 @@ In einer Zeit, in der technologische Abhängigkeiten wachsen und proprietäre Pl
 Wie können wir Systeme gestalten, die nicht nur effizient, sondern auch frei, nachvollziehbar und nachhaltig sind? Wie wird Datenschutz gewährleistet?
 Ich glaube, offene Standards, verantwortungsbewusste Softwareentwicklung und dezentrale (föderierte) Architekturen entscheidende Bausteine dafür sind.
 
-{{< toc >}}
+<!-- {{< toc >}} -->
 
 ## Allgemeines
 
