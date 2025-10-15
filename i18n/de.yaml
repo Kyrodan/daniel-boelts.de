@@ -12,3 +12,6 @@ search_initial_message: Geben Sie etwas ein, um zu suchen...
 search_navigate: zum navigieren
 search_select: zum selektieren
 search_close: zum schließen
+404_title: Seite nicht gefunden
+404_description: Die gesuchte Seite wurde möglicherweise entfernt, ihr Name wurde geändert oder sie ist vorübergehend nicht verfügbar.
+404_button_text: Zurück zur Startseite

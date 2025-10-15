@@ -8,20 +8,16 @@
             404
           </span>
           {{/*  <h1 class="h2 mb-4">Page not found</h1>  */}}
-          <h1 class="h2 mb-4">Seite nicht gefunden</h1>
+          <h1 class="h2 mb-4">{{ T "404_title" }}</h1>
           <div class="content">
             <p>
-              Die gesuchte Seite wurde möglicherweise entfernt, ihr Name wurde geändert
-              oder sie ist vorübergehend nicht verfügbar.
-              {{/*  The page you are looking for might have been removed, had its name
-              changed, or is temporarily unavailable.  */}}
+              {{ T "404_description" }}
             </p>
           </div>
           <a
             href="{{ site.BaseURL | relLangURL }}"
             class="btn btn-primary mt-8">
-            Zurück zur Startseite
-            {{/*  Back to home  */}}
+            {{ T "404_button_text" }}
           </a>
         </div>
       </div>
