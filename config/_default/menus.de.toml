@@ -53,17 +53,12 @@ weight = 4
 
 
 # footer menu
-# [[footer]]
-# name = "About"
-# url = "/about"
-# weight = 1
+[[footer]]
+name = "Impressum"
+url = "/imprint"
+weight = 1
 
-# [[footer]]
-# name = "Elements"
-# url = "/elements"
-# weight = 2
-
-# [[footer]]
-# name = "Privacy Policy"
-# url = "/privacy-policy"
-# weight = 3
+[[footer]]
+name = "Datenschutz"
+url = "/privacy-policy"
+weight = 2
