@@ -28,7 +28,9 @@ Als E-Mail-Anbieter nutze ich den deutschen Anbieter [mailbox](mailbox.org) mit 
 
 ## Messenger
 
-* WhatsApp: [Signal](https://signal.org/), [Threema](https://threema.com)
+Ich versuche aktuell, WhatsApp zu verlassen. Folge mir auf meinem Weg unter [leavingwhatsapp](/tags/leavingwhatsapp).
+
+* WhatsApp-Alternativen: [Signal](https://signal.org/), [Threema](https://threema.com)
 
 ## Social Media
 
@@ -52,9 +54,16 @@ Ich nutze beispielsweise Mastodon auf der Instanz [mastodon.social](https://mast
 * [Actual Budget](https://actualbudget.org/): Haushaltsbuch/persönlicher Finanzstatus
 * [Joplin](https://joplinapp.org/): persönliche Wissensdatenbank und Notizen, synchronisiert z. B. mit WebDAV auf meiner NAS
 * [Stratum](https://stratumauth.com/): Zweifaktor-Authentifizierungs-App (2FA) mit Backup-Möglichkeit
-* [Thunderbird](https://www.thunderbird.net/): E-Mail-Client, sowohl mobil auf ANdroid, als auch auf dem Desktop (Windows und Linux)
+* [Firefox](https://www.firefox.com/): Web-Browser, sowohl mobil auf Android, als auch auf dem Desktop (Windows und Linux)
+* [Thunderbird](https://www.thunderbird.net/): E-Mail-Client, sowohl mobil auf Android, als auch auf dem Desktop (Windows und Linux)
 * [DAVx<sup>5</sup>](https://www.davx5.com/): zur bidirektionalen Unterstützung von CalDAV (offener Standard für Kalender), CardDAV (offener Standard für Kontakte) unter Android; Funfact: das iPhone hat native Unterstützung für diese offenen Protokolle, obwohl Apple sonst eher proprietär ist.
 * [ICSx<sup>5</sup>](https://icsx5.bitfire.at/): zur Unterstützung von lesenden (Web-)Kalendern auf Basis von Webcal oder iCal (arbeitet zusammen mit DAVx<sup>5</sup>)
+* [GIMP](https://www.gimp.org/): Bildbearbeitung, Alternative zu Adobe Photoshop
+* [Inkscape](https://inkscape.org/): Vektorgrafik-Zeichenprogramm, Alternative zu Adobe Illustrator
+* [Scribus](https://www.scribus.net/): Desktop-Publishing, Alternative zu Adobe InDesign
+* [LibreOffice](https://www.libreoffice.org/): Office Suite, Alternative zu Microsoft Office (Word, Excel, PowerPoint)
+* [WireGuard](https://www.wireguard.com/): VPN-Client zur FritzBox (erste Wahl)
+* [OpenVPN](https://openvpn.net/client/): VPN-Client zum WireGuard-Server auf der Synology NAS (zweite Wahl) - kann aber über Port 443/TCP laufen und ist damit auch in sehr restriktiven WLAN-Netzwerken nutzbar
 
 ## Web-Anwendungen, die ich gerne nutze
 
@@ -91,6 +100,6 @@ Für meinen Webspace, die Domänen und den DNS verwende ich die Dienste von [hos
 * GitHub: bisher war ich zu Faul, eine Alternative zu nutzen. GitHub gehört mittlerweile zu Microsoft, die Alternative GitLab (ursprünglich aus der Ukraine, anschließend eine niederländische B. V.) ist zwischenzeitlich auch eine amerikanische Firma (Inc.) mit Sitz in geworden - wenigstens könnte es selbst gehostet werden, da die Basissoftware Open Source ist. Ansonsten bleibt noch Gitea übrig.
 * Amazon: Shopping, Alexa, Prime Video, Kindle (Unlimited), Music (Unlimited), etc. => ich bin komplett im Vendor-Lockin verloren :-/
 * Microsoft Office/Microsoft 365 Family: egal ob iPhone, Android oder Windows - Office ist bekannt, integriert (mit OneDrive) und funktioniert unter Linux und Chromebook im Browser. LibreOffice wäre als Desktop-Alternative (unter Windows und Linux) in Verbindung mit Nextcloud gut verwendbar, der Android-Client ist jedoch noch zu rudimentär und unter iOS schlichtweg nicht vorhanden.
-* diverse Smart Home Produkte: IKEA Trasfri, TP-Link KASA, Netatmo, Bosch Smart Home, iRobit Roomba, Gardena Gartenbewässerung, AP-Systems Balkonkraftwerk-Wechselrichter - für all das existieren keine guten Bindings für Home Assistant oder die Einrichtung ist mir zu aufwändig.
+* diverse Smart Home Produkte: IKEA Tradfri, TP-Link KASA, Netatmo, Bosch Smart Home, iRobit Roomba, Gardena Gartenbewässerung, AP-Systems Balkonkraftwerk-Wechselrichter - für all das existieren keine guten Bindings für Home Assistant oder die Einrichtung ist mir zu aufwändig.
 * ChatGPT: Pest oder Cholera? - der KI-Markt wird dominiert von den amerikanischen Big Playern OpenAI (ChatGPT), Anthropic (Claude), Meta (MetaAI in Facebook, Instagram, WhatsApp und co.), Microsoft (Copilot), und Google (Gemini) - und aus China (DeepSeek). Das Macht einer KI liegt in den Modellen, da helfen selbst Open Source Bibliotheken (wie [Ollama](https://ollama.com/)), die alle Modelle integrieren können nur bedingt. Auch wenn Meta sich stark im Bereich der Open Source Modelle betätigt, so geht es auch hier höchstwahrscheinlich um die Sicherung der Vormachtstellung und damit dem "Steuern des Wissens".
 * Bring!: eine clevere Einkaufsleisten-App, die wir im Haushalt teilen können. Hier befinden sich auch die wöchentlichen Prospekte der lokalen Händler in digitaler Form an einem Ort. Mit [KitchenOwl](https://docs.kitchenowl.org/) existiert ein Open Source Self-hosted Klon, aber ohne die Werbeprospekte.
