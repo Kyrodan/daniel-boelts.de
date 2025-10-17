@@ -89,6 +89,8 @@ Ich habe mir einen Plan zurecht gelegt:
 3. Möchte **ich jemanden kontaktieren**, dann schaue ich zunächst, ob ich ihn bei einer der beiden Alternativen finde und starte dort das Gespräch.
 4. Ich weise bei **"eingehenden" Chats** darauf hin, dass ich die Alternativen bevorzuge und biete Hilfe zum Umstieg an: ich möchte nicht belehrend wirken und auch niemanden diskriminieren, wenn er WhatsApp (vorübergehend?) weiterhin nutzen möchte
 5. Ich werbe auch auf **anderen Kanälen** (Facebook, Mastodon, etc.) für einen Umstieg
+6. Ich verweise bei Bedarf auf [So wechselst du von WhatsApp zu Signal](https://aboutsignal.com/de/blog/how-to-switch-from-whatsapp-to-signal/) und [Auch auf
+Signal](https://ookopsignal.eu/)
 
 Ich bin sehr gespannt, wie es laufen wird. Die Reaktion auf meine bisherigen Informationen zur digitalen Souveränität sind ausbaufähig, es gab nur vereinzelt Reaktionen - aber ich stehe auch noch ganz am Anfang meiner Aufklärungsarbeit. Über die Gründe kann ich momentan nur spekulieren und hoffe, dass ich durch Nachfragen mehr Klarheit darüber erhalte:
 * (noch) kein Bedarf für digitale Souveränität - das Problem wurde noch nicht selbst erkannt oder aufgeschoben
@@ -97,6 +99,7 @@ Ich bin sehr gespannt, wie es laufen wird. Die Reaktion auf meine bisherigen Inf
 * Es ist zu viel zu lesen und zu verstehen - die Gründe und Zusammenhänge sind (zu) komplex
 * selber denken und recherchieren ist anstrengend - es gibt keine plakative Lösungen
 * In der Komfortzone bleiben wollen (ja, auch mir ging es lange Zeit so, bevor ich bereit war, etwas zu verändern!)
+
 
 ## FAQ
 
