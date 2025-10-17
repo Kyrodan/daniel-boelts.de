@@ -1,4 +1,4 @@
-############# German navigation ##############
+############# English navigation ##############
 
 # main menu
 [[main]]
@@ -7,57 +7,58 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "About me"
 url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Digital Sovereignty"
+url = "/digital-sovereignty"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
 name = "Blog"
 url = "/blog"
+weight = 4
 
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+# [[main]]
+# name = "Elements"
+# url = "/elements"
+# weight = 3
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+# [[main]]
+# weight = 4
+# name = "Pages"
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "/contact"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "/authors"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "/categories"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "/404"
 
 
 # footer menu
-# [[footer]]
-# name = "About"
-# url = "/about"
-# weight = 1
+[[footer]]
+name = "Imprint"
+url = "/imprint"
+weight = 1
 
-# [[footer]]
-# name = "Elements"
-# url = "/elements"
-# weight = 2
-
-# [[footer]]
-# name = "Privacy Policy"
-# url = "/privacy-policy"
-# weight = 3
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 2

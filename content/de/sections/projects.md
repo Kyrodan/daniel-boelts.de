@@ -1,5 +1,6 @@
 ---
 enable: false
+draft: true
 title: "Meine Projekte"
 description: "Offen gedacht. Transparent gemacht. Ein Blick hinter die Kulissen meiner Arbeit."
 
