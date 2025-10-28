@@ -1,20 +1,21 @@
 <!-- DNS preconnect -->
 <meta http-equiv="x-dns-prefetch-control" content="on" />
-<link rel="preconnect" href="https://use.fontawesome.com" crossorigin />
-<link rel="preconnect" href="//cdnjs.cloudflare.com" />
-<link rel="preconnect" href="//www.googletagmanager.com" />
-<link rel="preconnect" href="//www.google-analytics.com" />
-<link rel="dns-prefetch" href="https://use.fontawesome.com" />
+{{/*  <link rel="preconnect" href="https://use.fontawesome.com" crossorigin />
+<link rel="preconnect" href="//cdnjs.cloudflare.com" />  */}}
+{{/*  <link rel="preconnect" href="//www.googletagmanager.com" />
+<link rel="preconnect" href="//www.google-analytics.com" />  */}}
+{{/*  <link rel="dns-prefetch" href="https://use.fontawesome.com" />
 <link rel="dns-prefetch" href="//ajax.googleapis.com" />
-<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
-<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />  */}}
+{{/*  <link rel="dns-prefetch" href="//www.googletagmanager.com" />
 <link rel="dns-prefetch" href="//www.google-analytics.com" />
-<link rel="dns-prefetch" href="//fonts.googleapis.com" />
-<link rel="dns-prefetch" href="//connect.facebook.net" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />  */}}
+{{/*  <link rel="dns-prefetch" href="//connect.facebook.net" />
 <link rel="dns-prefetch" href="//platform.linkedin.com" />
-<link rel="dns-prefetch" href="//platform.twitter.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />  */}}
 
 <!-- google fonts -->
+<!--
 {{ $pf:= site.Data.theme.fonts.font_family.primary }}
 {{ $sf:= site.Data.theme.fonts.font_family.secondary }}
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -28,6 +29,25 @@
     document.head.appendChild(googleFont);
   })();
 </script>
+-->
+
+<!-- Local Fonts (Google Fonts) -->
+{{ range resources.Match "/fonts/*.woff2" }}
+  <link rel="preload" href="{{ .RelPermalink }}" as="font" type="{{ .MediaType.Type }}">
+{{ end }}
+
+<!-- Fontawesome -->
+{{ range resources.Match "/fontawesome/webfonts/fa-{brands,solid,regular}-*.woff2" }}
+  <link rel="preload" href="{{ .RelPermalink }}" as="font" type="{{ .MediaType.Type }}">
+{{ end }}
+
+{{ range resources.Match "/fontawesome/css/{fontawesome,brands,solid,regular}.min.css" }}
+  <link
+    href="{{ .RelPermalink }}"
+    integrity="{{ .Data.Integrity }}"
+    rel="stylesheet" />
+{{ end }}
+
 
 <!-- main styles -->
 {{ $styles := slice }}
