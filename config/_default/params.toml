@@ -28,6 +28,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 copyright = "© Daniel Bölts - Inhalte dieser Site werden mit Unterstützung von künstlicher Intelligenz erstellt."
+fediverse_creator = "@kyrodan@mastodon.social"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
