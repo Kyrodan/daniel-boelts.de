@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Wie alles begann"
+    label: "Mein Leitbild"
     link: "/blog/2025-10-12-hello/"
 
 # Features
@@ -24,18 +24,6 @@ features:
       link: "https://www.linkedin.com/in/daniel-bölts"
       target: "_blank"
 
-  - title: "Open Source"
-    image: "/images/service-2.png"
-    content: "In meiner Freizeit unterstütze ich die Entwicklung von Open Source Software. Meine eigenen Projekte sind:"
-    bulletpoints:
-      - "KeeAnywhere: ein Plugin für KeePass, um Passwortdatenbanken komfortabel in Cloud-Diensten zu speichern."
-      - "HiDrive .Net SDK: Ein SDK, um mit .Net-Anwendungen auf HiDrive-Speicher zugreifen zu können."
-    button:
-      enable: true
-      label: "Zu meinem GitHub-Profil"
-      link: "https://github.com/Kyrodan/"
-      target: "_blank"
-
   - title: "Digitale Souveränität"
     image: "/images/service-3.png"
     content: "Als Privatperson versuche ich digital unabhängig von den großen (amerikanischen) Konzernen zu sein. Dies versuche ich durch folgende Strategien umzusetzen:"
@@ -48,4 +36,19 @@ features:
       label: "Meine Vorstellung von digitaler Souveränität"
       link: "/digital-sovereignty"
       target: ""
+
+  - title: "Freizeitprojekte"
+    image: "/images/service-2.png"
+    content: "In meiner Freizeit unterstütze ich die Entwicklung von Open Source Software, gehe meiner Grillleidenschaft nach oder engagiere mich in lokalen Vereinen.:"
+    bulletpoints:
+      - "KeeAnywhere: ein Plugin für KeePass, um Passwortdatenbanken komfortabel in Cloud-Diensten zu speichern."
+      - "HiDrive .Net SDK: Ein SDK, um mit .Net-Anwendungen auf HiDrive-Speicher zugreifen zu können."
+      - "Vulkan BBQ - mein Grill-Blog und Instagram-Channel"
+      - "Diverse Wordpress-Seiten"
+    button:
+      enable: true
+      label: "Zu meinen Projekten"
+      link: "/projects"
+      target: ""
+
 ---

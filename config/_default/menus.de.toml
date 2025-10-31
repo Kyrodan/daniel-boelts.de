@@ -12,14 +12,19 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Digitale Souveränität"
-url = "/digital-sovereignty"
+name = "Meine Projekte"
+url = "/projects"
 weight = 3
+
+[[main]]
+name = "Meine Digitale Souveränität"
+url = "/digital-sovereignty"
+weight = 4
 
 [[main]]
 name = "Blog"
 url = "/blog"
-weight = 4
+weight = 5
 
 # [[main]]
 # name = "Elements"

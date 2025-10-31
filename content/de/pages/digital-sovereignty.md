@@ -1,5 +1,5 @@
 ---
-title: "Digitale Souveränität"
+title: "Meine Digitale Souveränität"
 meta_title: ""
 description: ""
 draft: false
