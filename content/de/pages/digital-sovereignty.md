@@ -91,9 +91,12 @@ Ich selbst verwende ein Samsung-Mobiltelefon und nutze demnach Android. :
 
 ## Web-Anwendungen, die ich gerne nutze
 
-* Suchmaschine (Google-Ersatz): [Qwant](https://www.qwant.com/) aus Frankreich, [Ecosia](https://www.ecosia.org/) aus Berlin - beide investieren in einen eigenen gemeinsamen [europäischen Suchindex](https://de.blog.ecosia.org/eusp/), insbesondere Unabhängig von Google und Microsoft Bing
+* Suchmaschine (Google-Ersatz): 
+  * [Qwant](https://www.qwant.com/) aus Frankreich
+  * [Ecosia](https://www.ecosia.org/) aus Berlin 
+  * beide investieren in einen eigenen gemeinsamen [europäischen Suchindex](https://de.blog.ecosia.org/eusp/), insbesondere Unabhängig von Google und Microsoft Bing
 * Online-Übersetzer mit KI: [DeepL](https://www.deepl.com/) aus Köln
-* Routenplaner (Google Maps Alternative): HERE WeGo [https://wego.here.com]
+* Routenplaner (Google Maps Alternative): [HERE WeGo](https://wego.here.com)
 
 ## Self-Hosting
 
