@@ -47,7 +47,9 @@ Alternativen zu den bekannten Anwendungen:
 
 Ich nutze beispielsweise Mastodon auf der Instanz [mastodon.social](https://mastodon.social); meinen bisherigen Twitter/X-Account habe ich ohnehin kaum benutzt, weshalb ich ihn problemlos stilllegen konnte. Da ich selbst erst neu im Fediverse bin, habe ich die anderen Alterantiven noch nicht getestet; ich möchte gleichzeitig aber auch ein Social-Media-Detoxing betreiben - also das "Entgiften" und damit weglassen von der immerwährenden Social-Media-Berieselung mit dem endlosen Durchscrollen.
 
-## Sonstige Open-Source-Software, die ich einsetze
+## Wichtige Open-Source-Software, die ich einsetze
+
+Die meisten Anwendungen sind Plattformübergreifend (funktionieren demnach auf Windows, Linux, Android, Apple iOS, ...) oder sind Web-Anwendungen
 
 * [Bitwarden](https://bitwarden.com): Passwortmanager für alle Plattformen mit der Möglichkeit auch das Backend/den Server selbst zu hosten (per [Vaultwarden](https://github.com/dani-garcia/vaultwarden))
 * [Paperless-ngx](https://docs.paperless-ngx.com/): Dokumenten-Management-System
@@ -65,10 +67,33 @@ Ich nutze beispielsweise Mastodon auf der Instanz [mastodon.social](https://mast
 * [WireGuard](https://www.wireguard.com/): VPN-Client zur FritzBox (erste Wahl)
 * [OpenVPN](https://openvpn.net/client/): VPN-Client zum WireGuard-Server auf der Synology NAS (zweite Wahl) - kann aber über Port 443/TCP laufen und ist damit auch in sehr restriktiven WLAN-Netzwerken nutzbar
 
+## Handy-App-Alternativen zu Google/Microsoft/etc.
+
+Ich selbst verwende ein Samsung-Mobiltelefon und nutze demnach Android. :
+
+* Autonavigation (Alternative zu Google Maps): 
+  * HERE WeGo: niederländische Firma (mit Beteiligungen von BMW, Audi, Mercedes), Verkehrsmeldungen, Offline-Karten herunterladbar
+  * Magic Earth: niederländische Firma, sehr datenschutzfreundlich , OpenStreetMap-basiert, Verkehrsmeldungen, Offline-Karten herunterladbar
+  * CoMaps: Open Source/community-getrieben, datenschutzfreundlich , OpenStreetMap-basiert, keine Verkehrsmeldungen, Offline-Karten herunterladbar
+  * TomTom - Karten & Navigation: niederländische Firma, Verkehrsmeldungen, durchwachsene Store-Rezensionen
+* PDF-Viewer (Alternative zu Google, Microsoft, Adobe): MuPDF Viewer (Open Source)
+* 2-Faktor-Authenticator (Alternative zu Microsoft Authenticator, Google Authenticator): 
+  * Stratum Auth (Open Source)
+  * 2FAS Auth (Open Source)
+  * Synology Secure SignIn (wenn sowieso eine Synology-NAS verwendet wird)
+* Browser (Alternative zu Google Chrome) :
+  * Brave: sehr datenschutzfreundlich und die Privatsphäre schützend, eingebauter Werbe-Blocker, basiert auf Chromium
+  * Firefox: eigene Browserengine, durch Plugins erweizerbar, es existieren auch Varianten mi
+  * Vivaldi
+* Dokumentenscanner (Alternative zu Microsoft OneDrive/Office Lens, Google Drive Document Scanner): OpenScan (Open Source)
+* Outdoorkarten- und -navigation (Alternative zu Outdooractive/Alltrails/Komoot): OsmAnd (Open Source, OpenStreetMap-basiert)
+* E-Mail: Thunderbird (Open Source), Nachfolger von K9 Mail
+
 ## Web-Anwendungen, die ich gerne nutze
 
 * Suchmaschine (Google-Ersatz): [Qwant](https://www.qwant.com/) aus Frankreich, [Ecosia](https://www.ecosia.org/) aus Berlin - beide investieren in einen eigenen gemeinsamen [europäischen Suchindex](https://de.blog.ecosia.org/eusp/), insbesondere Unabhängig von Google und Microsoft Bing
 * Online-Übersetzer mit KI: [DeepL](https://www.deepl.com/) aus Köln
+* Routenplaner (Google Maps Alternative): HERE WeGo [https://wego.here.com]
 
 ## Self-Hosting
 
@@ -101,5 +126,5 @@ Für meinen Webspace, die Domänen und den DNS verwende ich die Dienste von [hos
 * Amazon: Shopping, Alexa, Prime Video, Kindle (Unlimited), Music (Unlimited), etc. => ich bin komplett im Vendor-Lockin verloren :-/
 * Microsoft Office/Microsoft 365 Family: egal ob iPhone, Android oder Windows - Office ist bekannt, integriert (mit OneDrive) und funktioniert unter Linux und Chromebook im Browser. LibreOffice wäre als Desktop-Alternative (unter Windows und Linux) in Verbindung mit Nextcloud gut verwendbar, der Android-Client ist jedoch noch zu rudimentär und unter iOS schlichtweg nicht vorhanden.
 * diverse Smart Home Produkte: IKEA Tradfri, TP-Link KASA, Netatmo, Bosch Smart Home, iRobit Roomba, Gardena Gartenbewässerung, AP-Systems Balkonkraftwerk-Wechselrichter - für all das existieren keine guten Bindings für Home Assistant oder die Einrichtung ist mir zu aufwändig.
-* ChatGPT: Pest oder Cholera? - der KI-Markt wird dominiert von den amerikanischen Big Playern OpenAI (ChatGPT), Anthropic (Claude), Meta (MetaAI in Facebook, Instagram, WhatsApp und co.), Microsoft (Copilot), und Google (Gemini) - und aus China (DeepSeek). Das Macht einer KI liegt in den Modellen, da helfen selbst Open Source Bibliotheken (wie [Ollama](https://ollama.com/)), die alle Modelle integrieren können nur bedingt. Auch wenn Meta sich stark im Bereich der Open Source Modelle betätigt, so geht es auch hier höchstwahrscheinlich um die Sicherung der Vormachtstellung und damit dem "Steuern des Wissens".
+* ChatGPT: Pest oder Cholera? - der KI-Markt wird dominiert von den amerikanischen Big Playern OpenAI (ChatGPT), Anthropic (Claude), Meta (MetaAI in Facebook, Instagram, WhatsApp und co.), Microsoft (Copilot), und Google (Gemini) - und aus China (DeepSeek). Das Macht einer KI liegt in den Modellen, da helfen selbst Open Source Bibliotheken (wie [Ollama](https://ollama.com/)), die alle Modelle integrieren können nur bedingt. Auch wenn Meta sich stark im Bereich der Open Source Modelle betätigt, so geht es auch hier höchstwahrscheinlich um die Sicherung der Vormachtstellung und damit dem "Steuern des Wissens". Aussichtsreichster europäischer Kandidat ist aktuell "Le Chat" vom französischen Hersteller "Mistral AI" (mit eigenen Open Source Modellen).
 * Bring!: eine clevere Einkaufsleisten-App, die wir im Haushalt teilen können. Hier befinden sich auch die wöchentlichen Prospekte der lokalen Händler in digitaler Form an einem Ort. Mit [KitchenOwl](https://docs.kitchenowl.org/) existiert ein Open Source Self-hosted Klon, aber ohne die Werbeprospekte.
