@@ -6,6 +6,8 @@ meta_title: ""
 description: ""
 # save as draft
 draft: false
+sitemap:
+  disable: true
 ---
 
 ## 1. Datenschutz auf einen Blick
