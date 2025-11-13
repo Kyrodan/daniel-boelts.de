@@ -65,7 +65,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Personal Blog", "Blog", "Open Source", "Digitale Souveränität", "Digitale Unabhängigkeit", "OSS"]
-description = "Persönliche Homepage von Daniel Bölts"
+description = "Meine Gedanken über digitale Souveränität, Open Source und Code. Niedergeschrieben in diesem Blog."
 author = "Daniel Bölts"
 #twitter = ""
 image = "images/boelts-daniel-gray.png"

@@ -88,3 +88,9 @@ ErrorDocument 404 /404.html
     Header append Vary: Accept-Encoding
   </FilesMatch>
 </IfModule>
+
+##### SEO optimization
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  Redirect 301 https://daniel-boelts.de  https://daniel-boelts.de/
+</IfModule>
