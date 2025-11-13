@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /imprint
 
 Sitemap: {{ .Site.BaseURL }}sitemap.xml
