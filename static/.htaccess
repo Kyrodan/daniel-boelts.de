@@ -92,5 +92,5 @@ ErrorDocument 404 /404.html
 ##### SEO optimization
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  Redirect 301 https://daniel-boelts.de  https://daniel-boelts.de/
+  RedirectMatch 301 ^$  /
 </IfModule>
