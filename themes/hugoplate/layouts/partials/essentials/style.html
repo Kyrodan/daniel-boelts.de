@@ -41,11 +41,14 @@
   <link rel="preload" href="{{ .RelPermalink }}" as="font" type="{{ .MediaType.Type }}">
 {{ end }}
 
+<!--    integrity="{{ .Data.Integrity }}" -->
+
 {{ range resources.Match "/fontawesome/css/{fontawesome,brands,solid,regular}.min.css" }}
   <link
     href="{{ .RelPermalink }}"
-    integrity="{{ .Data.Integrity }}"
-    rel="stylesheet" />
+    rel="stylesheet" 
+    media="print"
+    onload="this.media='all'; this.onload=null;"/>
 {{ end }}
 
 
