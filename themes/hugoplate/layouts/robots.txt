@@ -1,5 +1,9 @@
 User-agent: *
-Disallow: /imprint
-Disallow: /privacy-policy
+
+{{ range .Site.RegularPages }}
+  {{ if .Params.sitemap.disable }}
+Disallow: {{ .RelPermalink }}
+  {{ end }}
+{{ end }}
 
 Sitemap: {{ .Site.BaseURL }}sitemap.xml
