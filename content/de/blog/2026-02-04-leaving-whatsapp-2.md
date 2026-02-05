@@ -10,7 +10,7 @@ tags: ["leavingwhatsapp"]
 
 Unter [Digitaler Souveränität](/digital-sovereignty) seht ihr meinen Fortschritt zu diesem Thema: ich konnte bereits viele Dinge verändern, ohne dass ich etwas vermisse. Ich begann vor knapp vier Monaten damit, **WhatsApp** durch eine Alternative abzulösen.
 
-Dies ist der zweite Teil einer [mehrteiligen Serie](/tags/leavingwhatsapp/). Im [ersten Teil](2025-10-17-leaving-whatsapp-1) habe ich meine Beweggründe dargelegt und meine Strategie vorgestellt. Ich plane einen finalen dritten Artikel, in dem ich ein Fazit ziehen werde.
+Dies ist der zweite Teil einer [mehrteiligen Serie](/tags/leavingwhatsapp/). Im [ersten Teil](/blog/2025-10-17-leaving-whatsapp-1) habe ich meine Beweggründe dargelegt und meine Strategie vorgestellt. Ich plane einen finalen dritten Artikel, in dem ich ein Fazit ziehen werde.
 
 ## Was ist bisher geschehen?
 
