@@ -69,25 +69,27 @@ Die meisten Anwendungen sind Plattformübergreifend (funktionieren demnach auf W
 
 ## Handy-App-Alternativen zu Google/Microsoft/etc.
 
-Ich selbst verwende ein Samsung-Mobiltelefon und nutze demnach Android. :
+Ich selbst verwende ein Samsung-Mobiltelefon und nutze demnach Android:
 
 * Autonavigation (Alternative zu Google Maps): 
   * HERE WeGo: niederländische Firma (mit Beteiligungen von BMW, Audi, Mercedes), Verkehrsmeldungen, Offline-Karten herunterladbar
-  * Magic Earth: niederländische Firma, sehr datenschutzfreundlich , OpenStreetMap-basiert, Verkehrsmeldungen, Offline-Karten herunterladbar
-  * CoMaps: Open Source/community-getrieben, datenschutzfreundlich , OpenStreetMap-basiert, keine Verkehrsmeldungen, Offline-Karten herunterladbar
+  * Magic Earth: niederländische Firma, sehr datenschutzfreundlich, OpenStreetMap-basiert, Verkehrsmeldungen, Offline-Karten herunterladbar, manche Funktionen im Abo gegen geringe Gebühr
+  * CoMaps: Open Source/community-getrieben, datenschutzfreundlich, OpenStreetMap-basiert, keine Verkehrsmeldungen, Offline-Karten herunterladbar
   * TomTom - Karten & Navigation: niederländische Firma, Verkehrsmeldungen, durchwachsene Store-Rezensionen
 * PDF-Viewer (Alternative zu Google, Microsoft, Adobe): MuPDF Viewer (Open Source)
 * 2-Faktor-Authenticator (Alternative zu Microsoft Authenticator, Google Authenticator): 
   * Stratum Auth (Open Source)
   * 2FAS Auth (Open Source)
+  * Aegis Authenticator (Open Source)
   * Synology Secure SignIn (wenn sowieso eine Synology-NAS verwendet wird)
 * Browser (Alternative zu Google Chrome) :
   * Brave: sehr datenschutzfreundlich und die Privatsphäre schützend, eingebauter Werbe-Blocker, basiert auf Chromium
-  * Firefox: eigene Browserengine, durch Plugins erweizerbar, es existieren auch Varianten mi
+  * Firefox: eigene Browserengine, durch Plugins erweiterbar, es existieren auch Varianten mi
   * Vivaldi
 * Dokumentenscanner (Alternative zu Microsoft OneDrive/Office Lens, Google Drive Document Scanner): OpenScan (Open Source)
 * Outdoorkarten- und -navigation (Alternative zu Outdooractive/Alltrails/Komoot): OsmAnd (Open Source, OpenStreetMap-basiert)
 * E-Mail: Thunderbird (Open Source), Nachfolger von K9 Mail
+* Ticket-Wallet, Apple Passbook (.pkpass): FossWallet
 
 ## Web-Anwendungen, die ich gerne nutze
 
